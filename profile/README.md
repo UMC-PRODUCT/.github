@@ -1,31 +1,19 @@
-# UMC Official Product Team
+# UMC PRODUCT
 
 국내 **최대 규모** 대학생 IT 연합 동아리 **University MakeUs Challenge** 공식 프로덕트팀
+
+<img width="1000" alt="product-team" src="https://github.com/user-attachments/assets/34311476-6869-4d7d-8d1c-dec574c4cdcc" />
 
 ---
 
 ## 프로덕트팀 구성원
 
-### ✨ 1st Team Members
+### 2nd
 
-| 학교          | 닉네임  | 이름  | 소속     | 직책             | GitHub | 
-|-------------|------|-----|--------|----------------|--------|
-| 중앙대학교       | 제옹   | 정의찬 | 앱프로덕트팀 | 팀장, PM, iOS 팀원 | -      |
-| 한성대학교       | 리버   | 이재원 | 앱프로덕트팀 | 부팀장, iOS 팀장    | -      |
-| 중앙대학교       | 벨라   | 황지원 | 웹프로덕트팀 | 팀장, PM         | -      |
-| 상명대학교       | 코튼   | 김연진 | 웹프로덕트팀 | Web 팀장         | -      |
-| 상명대학교       | 매튜   | 김용민 | 웹프로덕트팀 | 부팀장            | -      | 
-| 중앙대학교       | 하늘   | 박경운 | 앱프로덕트팀 | Server 팀장      | -      |
-| 숭실대학교       | 어헛차  | 박유수 | 앱프로덕트팀 | Android 팀장     | -      |
-| 중앙대학교       | 나옹   | 김나영 | 웹프로덕트팀 | Design         | -      |
-| 성신여자대학교     | 삼이   | 이희원 | 앱프로덕트팀 | Design         | -      |
-| 덕성여자대학교     | 마티   | 김미주 | 앱프로덕트팀 | iOS 팀원         | -      |
-| 가천대학교       | 소피   | 이예지 | 앱프로덕트팀 | iOS 팀원         | -      |
-| 서울여자대학교     | 나루   | 양지애 | 앱프로덕트팀 | Android 팀원     | -      |
-| 명지대학교       | 조나단  | 조경석 | 앱프로덕트팀 | Android 팀원     | -      |
-| 서울여자대학교     | 도리   | 김도연 | 앱프로덕트팀 | Android 팀원     | -      |
-| 동국대학교       | 박박지현 | 박지현 | 앱프로덕트팀 | Server 팀원      | -      |
-| 한양대학교 ERICA | 와나   | 강하나 | 앱프로덕트팀 | Server 팀원      | -      |
-| 동덕여자대학교     | 세니   | 박세은 | 앱프로덕트팀 | Server 팀원      | -      |
-| 중앙대학교       | 스읍   | 이예은 | 앱프로덕트팀 | Server 팀원      | -      |
-| 동국대학교       | 갈래   | 김민서 | 웹프로덕트팀 | Server 팀원      | -      |
+<img width="1000" alt="2nd-product" src="https://github.com/user-attachments/assets/fbd46c36-62a9-44d3-b8ae-5c2770c8277a" />
+
+
+### ✨ 1st
+
+<img width="1000" alt="1st-app-product" src="https://github.com/user-attachments/assets/55bb872c-6362-49d7-a325-72a974289beb" />
+<img width="1000" alt="1st-web-product" src="https://github.com/user-attachments/assets/e7faaa10-5e44-42bb-bec9-8874f8feb80c" />
