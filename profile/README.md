@@ -8,7 +8,8 @@
 
 ## 2nd
 
-<img width="1000" alt="2nd-product" src="https://github.com/user-attachments/assets/87ac7ba4-db2d-4bf6-abf9-8d726ef997b3" />
+<img width="1000" alt="2nd-product" src="https://github.com/user-attachments/assets/e4055c32-f97e-42d9-999d-1c7e77c59cb7" />
+
 
 ## ✨ 1st
 
