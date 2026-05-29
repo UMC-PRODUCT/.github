@@ -7,7 +7,7 @@
 # Teammates
 
 ## 2nd
-<img width="1000" alt="2nd-product" src="https://github.com/user-attachments/assets/2b035476-5fcb-431b-af3d-0f301353d61a" />
+<img width="1000" alt="2nd-product" src="https://github.com/user-attachments/assets/f0ede418-82f1-4834-a3c8-b20a0042c33d" />
 
 ## ✨ 1st
 
