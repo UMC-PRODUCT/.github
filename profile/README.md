@@ -23,7 +23,7 @@
 
 <br/>
 
-<details>
+<details open>
 <summary><b>2nd</b> &nbsp;·&nbsp; iOS</summary>
 
 <br/>
@@ -32,7 +32,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>1st</b> &nbsp;·&nbsp; App Product Team, Web Product Team</summary>
 
 <br/>
