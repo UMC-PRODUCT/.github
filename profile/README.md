@@ -24,7 +24,7 @@
 <br/>
 
 <details open>
-<summary><b>2nd</b> &nbsp;·&nbsp; iOS</summary>
+<summary><b>2nd</b> </summary>
 
 <br/>
 
