@@ -2,16 +2,19 @@
 
 # UMC PRODUCT
 
-**국내 최대 규모 대학생 IT 연합 동아리**<br/>
+**국내 최대 규모 대학생 IT 연합 동아리**  
 **University MakeUs Challenge** 공식 자치기구
 
-<br/>
+<br />
 
-<img width="800" height="187" alt="UMC OFFICIAL PRODUCT" src="https://github.com/user-attachments/assets/ae62d173-027c-4dd5-b919-fac9393556b9" />
+<img
+  width="800"
+  height="187"
+  alt="UMC OFFICIAL PRODUCT"
+  src="https://github.com/user-attachments/assets/ae62d173-027c-4dd5-b919-fac9393556b9"
+/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -21,30 +24,69 @@
 
 </div>
 
-<br/>
-
 <details open>
-<summary><b>2nd</b> </summary>
+<summary><b>3rd</b></summary>
 
-<br/>
+<br />
 
-<img width="1000" alt="2nd-ios" src="https://github.com/user-attachments/assets/c607da53-cacc-4f6f-a454-1c7be7b6a3df" />
+<h3 align="center">목적 조직</h3>
+
+<img
+  width="4432"
+  height="2784"
+  alt="UMC PRODUCT 3기 목적 조직도"
+  src="https://github.com/user-attachments/assets/9109604e-ac23-4ffb-999a-779e0dee70dd"
+/>
+
+<br />
+
+<h3 align="center">챕터 조직</h3>
+
+<img
+  width="4432"
+  height="2208"
+  alt="UMC PRODUCT 3기 챕터 조직도"
+  src="https://github.com/user-attachments/assets/90aaa8cc-bb0e-4165-b3cf-9bd1f576d381"
+/>
+
+</details>
 
 </details>
 
 <details open>
-<summary><b>1st</b> &nbsp;·&nbsp; App Product Team, Web Product Team</summary>
+<summary><b>2nd</b></summary>
 
-<br/>
+<br />
 
-**App Product Team**
+<img
+  width="1000"
+  alt="UMC PRODUCT 2기 iOS 팀원"
+  src="https://github.com/user-attachments/assets/c607da53-cacc-4f6f-a454-1c7be7b6a3df"
+/>
 
-<img width="1000" alt="1st-app-product" src="https://github.com/user-attachments/assets/55bb872c-6362-49d7-a325-72a974289beb" />
+</details>
 
-<br/>
+<details open>
+<summary><b>1st</b> · App Product Team, Web Product Team</summary>
 
-**Web Product Team**
+<br />
 
-<img width="1000" alt="1st-web-product" src="https://github.com/user-attachments/assets/e7faaa10-5e44-42bb-bec9-8874f8feb80c" />
+### App Product Team
+
+<img
+  width="1000"
+  alt="UMC PRODUCT 1기 App Product Team"
+  src="https://github.com/user-attachments/assets/55bb872c-6362-49d7-a325-72a974289beb"
+/>
+
+<br />
+
+### Web Product Team
+
+<img
+  width="1000"
+  alt="UMC PRODUCT 1기 Web Product Team"
+  src="https://github.com/user-attachments/assets/e7faaa10-5e44-42bb-bec9-8874f8feb80c"
+/>
 
 </details>
