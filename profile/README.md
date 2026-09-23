@@ -31,7 +31,11 @@
 
 <h3 align="center">목적 조직</h3>
 
-<img width="4432" height="2784" alt="UMC PRODUCT 3기 목적 조직도" src="https://github.com/user-attachments/assets/07c7c834-fc41-4a6c-a936-a4199a67e924" />
+<img
+  width="100%"
+  alt="UMC PRODUCT 3기 목적 조직도"
+  src="https://raw.githubusercontent.com/UMC-PRODUCT/.github/main/profile/images/purpose-org.png"
+/>
 
 
 <br />
@@ -44,8 +48,6 @@
   alt="UMC PRODUCT 3기 챕터 조직도"
   src="https://github.com/user-attachments/assets/90aaa8cc-bb0e-4165-b3cf-9bd1f576d381"
 />
-
-</details>
 
 </details>
 
