@@ -43,10 +43,9 @@
 <h3 align="center">챕터 조직</h3>
 
 <img
-  width="4432"
-  height="2208"
+  width="100%"
   alt="UMC PRODUCT 3기 챕터 조직도"
-  src="https://github.com/user-attachments/assets/90aaa8cc-bb0e-4165-b3cf-9bd1f576d381"
+  src="https://raw.githubusercontent.com/UMC-PRODUCT/.github/main/profile/images/chapter-org.png"
 />
 
 </details>
