@@ -35,8 +35,9 @@
   width="4432"
   height="2784"
   alt="UMC PRODUCT 3기 목적 조직도"
-  src="https://github.com/user-attachments/assets/9109604e-ac23-4ffb-999a-779e0dee70dd"
+  src="https://github.com/user-attachments/assets/619c62f9-554f-4de6-8e7f-ffdd760206f4"
 />
+
 
 <br />
 
